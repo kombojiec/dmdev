@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.dmdev.app.ApplicationTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.074 s <<< FAILURE! - in com.dmdev.app.ApplicationTest
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.083 s <<< FAILURE! - in com.dmdev.app.ApplicationTest
 com.dmdev.app.ApplicationTest.checkBooleanForFalse  Time elapsed: 0.042 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <false> but was: <true>
 	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
